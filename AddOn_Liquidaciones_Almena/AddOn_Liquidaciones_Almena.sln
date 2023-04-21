@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddOn_Liquidaciones_Almena", "FactElectronicaSICFE\AddOn_Liquidaciones_Almena.csproj", "{DA2EED49-A10B-4550-B649-7FC98C26419D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Debug|x64.ActiveCfg = Debug|x86
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Debug|x64.Build.0 = Debug|x86
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Debug|x86.ActiveCfg = Debug|x86
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Debug|x86.Build.0 = Debug|x86
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Release|x64.ActiveCfg = Release|x64
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Release|x64.Build.0 = Release|x64
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Release|x86.ActiveCfg = Release|x86
+		{DA2EED49-A10B-4550-B649-7FC98C26419D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
